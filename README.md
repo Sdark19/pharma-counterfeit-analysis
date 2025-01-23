@@ -1,5 +1,14 @@
 # Pharma Counterfeit Sales Analysis
 
+## Table of Contents
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Dataset](#dataset)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model Details](#model-details)
+- [Results](#results)
+
 ## Overview
 This project focuses on analyzing counterfeit pharmaceutical sales data using machine learning techniques. The goal is to predict counterfeit sales based on various features such as medicine type, area distribution, and other relevant attributes.
 
@@ -13,14 +22,6 @@ Counterfeit medicines are fake medicines that are either contaminated or contain
 Governments face the challenge of deploying resources effectively to counter these illegal operations. To address this, they have decided to focus on high-net-worth illegal operations first. This project uses collected data to **predict counterfeit sales figures** based on the characteristics of illegal operations, helping authorities prioritize their efforts.
 
 
-## Table of Contents
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Details](#model-details)
-- [Results](#results)
 
 ## Dataset
 The dataset used in this project contains information about counterfeit pharmaceutical sales, including:
