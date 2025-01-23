@@ -3,8 +3,20 @@
 ## Overview
 This project focuses on analyzing counterfeit pharmaceutical sales data using machine learning techniques. The goal is to predict counterfeit sales based on various features such as medicine type, area distribution, and other relevant attributes.
 
+## Problem Statement
+Counterfeit medicines are fake medicines that are either contaminated or contain the wrong or no active ingredient. They could have the right active ingredient but at the wrong dose. Counterfeit drugs are illegal and harmful to health. 
+
+- **10% of the world's medicine is counterfeit**, and the problem is even worse in developing countries, where **up to 30% of medicines are counterfeit**.
+- Millions of pills, bottles, and sachets of counterfeit and illegal medicines are traded worldwide.
+- The World Health Organization (WHO) and Interpol are working to dismantle criminal networks involved in this trade, but counterfeit medicine operations continue to emerge.
+
+Governments face the challenge of deploying resources effectively to counter these illegal operations. To address this, they have decided to focus on high-net-worth illegal operations first. This project uses collected data to **predict counterfeit sales figures** based on the characteristics of illegal operations, helping authorities prioritize their efforts.
+
+---
+
 ## Table of Contents
 - [Overview](#overview)
+- [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
