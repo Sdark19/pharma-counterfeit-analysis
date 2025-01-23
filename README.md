@@ -58,11 +58,11 @@ pip install -r requirements.txt
  ```
 
 ## Usage
-Open the Pharma.ipynb notebook in Jupyter or vs code.
+-   Open the Pharma.ipynb notebook in Jupyter or vs code.
 
-Run each cell sequentially to load the data, preprocess it, train the model, and generate predictions.
+-   Run each cell sequentially to load the data, preprocess it, train the model, and generate predictions.
 
-The final predictions are saved in a CSV file named output.csv.
+-   The final predictions are saved in a CSV file named output.csv.
 
 ## Model Details
 The model used in this project is a Gradient Boosting Regressor from the scikit-learn library. The model was trained using GridSearchCV for hyperparameter tuning. The best parameters found were:
