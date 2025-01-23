@@ -76,4 +76,4 @@ The model used in this project is a Gradient Boosting Regressor from the scikit-
 The model achieved a Mean Absolute Error (MAE) of approximately 752.97.
 
 ## Results
-The model's predictions for the test dataset are saved in output.csv. The expected score (based on the MAE) is 0.546.
+The model's predictions for the test dataset are saved in output.csv.
