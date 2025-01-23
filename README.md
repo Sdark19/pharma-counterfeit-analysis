@@ -10,8 +10,6 @@ This project focuses on analyzing counterfeit pharmaceutical sales data using ma
 - [Usage](#usage)
 - [Model Details](#model-details)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 The dataset used in this project contains information about counterfeit pharmaceutical sales, including:
@@ -63,17 +61,13 @@ The final predictions are saved in a CSV file named mysubmission.csv.
 ## Model Details
 The model used in this project is a Gradient Boosting Regressor from the scikit-learn library. The model was trained using GridSearchCV for hyperparameter tuning. The best parameters found were:
 
-n_estimators: 100
-
-learning_rate: 0.1
-
-max_depth: 3
-
-min_samples_split: 2
-
-min_samples_leaf: 1
+- n_estimators: 100
+- learning_rate: 0.1
+- max_depth: 3
+- min_samples_split: 2
+- min_samples_leaf: 1
 
 The model achieved a Mean Absolute Error (MAE) of approximately 752.97.
 
-Results
+## Results
 The model's predictions for the test dataset are saved in mysubmission.csv. The expected score (based on the MAE) is 0.546.
