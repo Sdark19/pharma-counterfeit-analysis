@@ -12,7 +12,6 @@ Counterfeit medicines are fake medicines that are either contaminated or contain
 
 Governments face the challenge of deploying resources effectively to counter these illegal operations. To address this, they have decided to focus on high-net-worth illegal operations first. This project uses collected data to **predict counterfeit sales figures** based on the characteristics of illegal operations, helping authorities prioritize their efforts.
 
----
 
 ## Table of Contents
 - [Overview](#overview)
